@@ -1,0 +1,27 @@
+
+/* Change default link color */
+a {
+  color: #83b0e1; 
+}
+
+/* Change link color on hover */
+a:hover {
+  color: #0d47a1; 
+}
+
+/* Change the color of the active link in the navigation menu */
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #83b0e1;
+}
+/* Change the color of the active link in the navigation menu on hover */
+.navbar-nav .nav-link:hover {
+    color: #0d47a1;
+} 
+
+.nav-tabs .nav-link {
+    color: #83b0e1;
+}
+
+h5 {
+  color: #83b0e1 !important;
+}

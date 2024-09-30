@@ -1,0 +1,42 @@
+---
+title: "Research"
+toc: false
+---
+
+::: panel-tabset
+
+### Projects
+
+#### Active Projects
+
+**Morphosyntactic variation in Spanish-English early bilinguals** <br> This project explores the variation of forms in the expression of perfective past time reference, and futurity among Spanish-English early bilinguals in the United States. Data are currently being collected using a variety of experimental tasks that target both production and receptive knowledge.
+
+**Attitudes towards a standardized written norm for Andalusian Spanish** <br> This project examines the attitudes towards *Ettandâ pal Andalûh* ([Colectivo EPA, 2018](https://andaluh.es/epa-2/){.external target="_blank"}), an alternative ortographic norm for Andalusian Spanish, a variety of Peninsular Spanish spoken in southern Spain. Data were collected from Reddit and analyzed following a discourse analysis approach (Walsh, 2022) combined with a stancetaking framework (Du Bois, 2007; Hilliard, 2023). The findings from the present project have several implications for Internet sociolinguistics and for theories on language ideologies and political affiliations.
+
+**Spanish in central New Jersey** <br> This project focuses on the Spanish spoken in New Jersey, in particular, in the greater New Brunswick area, with the aim of documenting its linguistic features and investigating language variation and change in this area. The outcome of this project will be the creation of a corpus of the Spanish language as currently used in central New Jersey. This project is lead by [Dr. Kendra V. Dickinson](https://span-port.rutgers.edu/people/faculty/faculty-directory/1013-kendra-dickinson){.external target="_blank"}.
+
+#### Previous Projects
+
+**Initiative on immigration and education, CUNY-IIE** <br> This megaproject investigated the intersections between immigration and education in New York by focusing on mixed-status immigrant communities and education stakeholders, specifically their strengths, experiences, and needs. Through the lens of grounded theory (Corbin & Strauss, 1990), I analyzed a part of the education stakeholders data with Julissa Dilone and Teresita Goyeneche, under the supervision of [Dr. Ariana Mangual Figueroa](https://www.arianamangualfigueroa.com/){.external target="_blank"}. You can find more information about CUNY-IIE in [the official website](https://www.cuny-iie.org/){.external target="_blank"}.
+
+**Alternative approaches to the teaching of Spanish to adult immigrants and refugees** <br> This project tested 'non-traditional approaches' (task-based approach, cooperative learning, and writing as a social task) to the teaching of upper-beginning Spanish in an immigrant setting in Barcelona, Spain, as there was a lack of research on this population, even though Spain is considered one of the main destinations for international migration (Consejo Económico y Social, 2019). You can read about this project [here](https://diposit.ub.edu/dspace/handle/2445/172322){.external target="_blank"} and in [Boletín ASELE, núm. 66](https://static1.squarespace.com/static/5f45150b2aa4295ff896cf08/t/653814b0aa65001249a664c6/1698174132786/Boletin_ASELE_66.pdf){.external target="_blank"}.
+
+### Publications and Presentations
+
+#### Publications
+
+Feliu Ribas, M. (2022). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros en un curso de E/L2 dirigido a un colectivo inmigrante. *Boletín de la Asociación para la Enseñanza del Español como Lengua Extranjera, Núm. 66*, 69-82.
+
+Feliu Ribas, M. (2020). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros: la expresión escrita en un curso de E/L2 dirigido a un colectivo inmigrante. \[Master’s thesis, Universitat de Barcelona.\] Dipòsit Digital de la Universitat de Barcelona. [http://hdl.handle.net/2445/172322](http://hdl.handle.net/2445/172322){.external target="_blank"}
+
+#### Presentations and Talks
+
+Feliu Ribas, M. (November 2024). Bailé or he bailado? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
+
+Feliu Ribas, M. (April 2024). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish”. *11th International Workshop on Spanish Sociolinguistics*. State University of New York at Buffalo, NY.
+
+Feliu Ribas, M. (March 2024). Methodology and methods in (socio)linguistic research on the Internet. On *Research Methods in Spanish Linguistics* (Prof. Kendra V. Dickinson). Rutgers University, NJ.
+
+Dilone, J., Feliu Ribas, M. and Goyeneche, T. (December 2023). A Matter of Empathy and Resources: Navigating the Mindset of Educators in New York City Public Schools. City University of New York, NY.
+
+Feliu Ribas, M. (May 2020). Aprendizaje Cooperativo en el aula de ELE. Qué es y cómo aplicarlo. Fundació Servei Solidari, Barcelona, Spain.

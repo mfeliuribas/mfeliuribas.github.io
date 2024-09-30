@@ -1,0 +1,59 @@
+---
+title: "Meritxell Feliu Ribas"
+toc: false
+page-layout: full
+about: 
+  template: trestles
+  image: "./assets/mfr_ru_photo.png"
+  image-shape: round
+  links: 
+    - text: "{{< fa brands linkedin size=2x >}}"
+      url: "https://www.linkedin.com/in/meritxellfeliuribas/"
+    - text: "{{< fa brands github size=2x >}}"
+      url: "https://github.com/mfeliuribas"
+    - text: "{{< fa envelope size=2x >}}"
+      url: "mailto: mfeliuribas@spanport.rutgers.edu"
+engine: knitr
+---
+
+```{css, echo=FALSE}
+.about-link {
+  color: #83b0e1 !important;
+  padding: 10px !important;
+  border: 0 !important;
+  border-radius: 5px !important;
+  background-color: transparent !important;
+}
+
+.about-link:hover {
+  color: #0d47a1 !important;
+
+}
+```
+
+
+
+### Ph.D. Student in Spanish Linguistics
+
+##### Rutgers University
+
+I am a Ph.D. Student in Bilingualism and Second Language Acquisition in the Department of Spanish and Portuguese at Rutgers University. My principal areas of research encompass sociolinguistics and language variation and change in multilingual populations. In particular, I study morphosyntax variation among bilinguals in the United States. Outside of academia, I love discovering new places, spending time (either virtually or in person) with my loved ones, and cooking Catalan and Spanish food!
+
+
+#### Interests
+
+* Sociolinguistics
+* Language Variation and Change 
+* Morphosyntax Variation 
+* Bilingualism/Second Language Acquisition 
+* Statistics/Bayesian Data Analysis
+
+
+#### Education
+
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>Ph.D. in Bilingualism and Second Language Acquisition, 2026 (expected) <br> <font size = "3px">Rutgers University</font> </li>
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>MA in Teaching Spanish as a Foreign and Second Language, 2020 <br> <font size = "3px">Universitat de Barcelona & Universitat Pompeu Fabra (Spain)</font> </li>
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>BA in Modern Languages and Literature (German and Russian), 2018 <br> <font size = "3px">Universitat de Barcelona (Spain)</font> </li>
+</ul>
+

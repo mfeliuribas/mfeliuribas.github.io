@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "MFR"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: outreach.qmd
+        text: Outreach
+
+format:
+  html:
+    theme: cosmo
+    css: ./assets/css/custom.css
+    toc: true
+
+editor: visual
+
