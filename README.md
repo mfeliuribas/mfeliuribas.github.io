@@ -4,4 +4,4 @@ My personal website
 
 <br>
 
-*Last updated: 24 Jan 2025*
+*Last updated: 28 Jan 2025*

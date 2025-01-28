@@ -22,7 +22,23 @@ title: "Outreach"
 
 **Member of RU Bilingual** <br> [Rutgers University (2022-present)]{style="font-size: 15px; color: #adb5bd; "} <br>
 
-<li>A description of my duties will come soon!</li>
+<li>Providing English &rarr; Spanish translation services to local non-profits, social services organizations, and outreach initiatives through the [Language Bank](https://tlc.rutgers.edu/the-language-bank):</li>
+<ul style="list-style-type: circle;">
+  <li>*The Arc of New Jersey Project*: Translated a sexual education curriculum for individuals with intellectual and developmental disabilities.</li>
+  <li>*American Friends Service Committee Project*: Translated stories from a storytelling project on diverse migration experiences to the U.S.</li>
+</ul>
+
+<li>Providing English &harr; Spanish interpretation services to support bilingual communication needs.</li>
+
+<li>Delivering research-based talks and presentations to families, children, and non-expert communities in order to promote the benefits of multilingualism:</li>
+<ul style="list-style-type: circle;">
+  <li>"Exploring Language Attitudes"</li>
+  <li>"What does a (socio)linguist do?"</li>
+  <li>"Dual Immersion Schools and Bilingualism"</li>
+  <li>"Parent Advocacy"</li>
+</ul>
+
+<li>Conducted a workshop on teaching languages to newcomers for the Board of Education Department in North Brunswick, NJ</li>
 
 <br>
 
@@ -37,6 +53,16 @@ title: "Outreach"
 <li>Coordinated logistics for all events, including room bookings, material preparation, food arrangements, and outreach to ensure smooth execution and engaging experiences.</li>
 
 <li>Designed promotional materials and promoted events through marketing efforts in order to enhance visibility and grew event awareness within the Rutgers community.</li>
+
+<br>
+
+**Workshop Facilitator for iRISE** <br> [Rutgers University (2023)]{style="font-size: 15px; color: #adb5bd; "} <br>
+
+<li>Facilitated an introductory workshop on experimental research through science, exploration, and innovation.</li>
+
+<li>Introduced middle school students to eye-tracking technology and explained its applications in various fields, including language acquisition and marketing research.</li>
+
+<li>Designed workshop materials, including a PowerPoint presentation, videos, and interactive activities to engage students and foster curiosity.</li>
 
 <br>
 
