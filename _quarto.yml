@@ -8,14 +8,14 @@ website:
   title: "MFR"
   navbar:
     left:
-      - href: index.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
       - href: outreach.qmd
-        text: Outreach
+        text: Outreach and Service
+      - href: lang_community.qmd
+        text: Language in the Community
 
 format:
   html:

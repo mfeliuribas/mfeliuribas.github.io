@@ -1,5 +1,5 @@
 ---
-title: "Meritxell Feliu Ribas"
+title: "Meritxell Feliu-Ribas"
 toc: false
 page-layout: full
 about: 
@@ -14,6 +14,8 @@ about:
     - text: "{{< fa envelope size=2x >}}"
       url: "mailto: mfeliuribas@spanport.rutgers.edu"
 engine: knitr
+editor: 
+  mode: source
 ---
 
 ```{css, echo=FALSE}

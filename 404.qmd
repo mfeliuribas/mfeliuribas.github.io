@@ -1,4 +1,7 @@
 ---
 title: "Oh no!"
+editor: 
+  mode: source
 ---
+
 We couldn't find the page you are looking for.

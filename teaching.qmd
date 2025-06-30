@@ -1,20 +1,24 @@
 ---
 title: "Teaching"
 toc: false
+editor: 
+  mode: source
 ---
 
-#### University Level
+I am passionate about language education - Here is a list of courses I have taught or I am currently teaching. As shown, I have extensive experience in language instruction across various educational settings, populations, and proficiency levels. 
 
+#### University Level
 -   Spanish 131: Intermediate Spanish I (in person)
 -   Spanish 132: Intermediate Spanish II (in person and online)
 -   Spanish 203: Spanish Conversation and Composition (in person)
 -   Spanish 261: Introduction to the Study of Language (hybrid)
+-   Catalan B1:  Certificate Preparation (Sprachzertifikat Katalanisch B1) (in person)
 
 #### Children and Young Adults
 
 -   Catalan for Newcomers (Pre-K to 6th Grade)
 -   Spanish for Newcomers (Pre-K to 6th Grade)
--   Spanish for Native Speakers (1st Grade)
+-   Spanish for Heritage Speakers (1st Grade)
 -   Catalan for Native Speakers (3rd Grade)
 -   Creative Writing in Catalan and Spanish (5th Grade)
 -   Intermediate Spanish (in-house corporate)

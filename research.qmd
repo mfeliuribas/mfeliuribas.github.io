@@ -1,6 +1,8 @@
 ---
 title: "Research"
 toc: false
+editor: 
+  mode: source
 ---
 
 ::: panel-tabset
@@ -9,7 +11,7 @@ toc: false
 
 #### Active Projects
 
-**Morphosyntactic variation in early Spanish-English bilinguals** <br> This project explores the variation of forms in the expression of perfective past time reference, and futurity among early Spanish-English bilinguals in the United States. In addition, it compares the results from bilinguals to those of Spanish monolinguals in order to examine the potential role of bilingualism and language contact situations. Data are currently being collected using different sociolinguistic corpora and a variety of experimental tasks that target both production and receptive knowledge, and will be analyzed following Bayesian regression methods. The findings from this project will inform theories of grammaticalization, language change and variation, bilingualism, and heritage language acquisition, as well as educational programs.
+**Morphosyntactic variation in early Spanish-English bilinguals** <br> This project explores the variation of forms in the expression of perfective past time reference, futurity, and epistemic modality among early Spanish-English bilinguals in the United States. In addition, it compares the results from bilinguals to those of Spanish monolinguals in order to examine the potential role of bilingualism and language contact situations. Data are currently being collected using different sociolinguistic corpora and a variety of experimental tasks that target both production and receptive knowledge, and will be analyzed following Bayesian regression methods. The findings from this project will inform theories of grammaticalization, language change and variation, language contact, bilingualism, and heritage language acquisition, as well as educational programs.
 
 **Language attitudes of Catalan-Spanish bilinguals** <br> This project examines the covert attitudes by Catalan-Spanish bilinguals toward a less Catalan-like production of a given sound, focusing on intervocalic alveolar fricatives, lateral approximants, and velar fricatives. Data were collected using a experimental task that followed a between-subjects design, and is being analyzed through hierarchically nested linear regression models. The results from this study will inform discussions on language policies, social integration, and linguistic diversity in bilingual populations.
 
@@ -29,11 +31,11 @@ toc: false
 
 #### Publications
 
-Feliu-Ribas, M. (in preparation). Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals.
+Feliu-Ribas, M. (in preparation). Variation in Perfective Past Time Reference: Insights from Spanish in Contact with English.
 
 Feliu-Ribas, M. (under review). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish.
 
-Casillas, J., Constantin-Dureci, G., Andreu Rascón, I., Shao, J., Rodríguez, S., Gadamsetty, A., Minetti, A., Laungani, K., Thatcher, J., Gardere, R.T., Taveras, K., Chang, I., Rodríguez, N., Parrish, K., Feliu Ribas, M., and Esposito, R. (2023). Opening open science to all: Demystifying reproducibility and transparency practices in linguistic research. PsyArXiv. [https://doi.org/10.31234/osf.io/spz4w](https://doi.org/10.31234/osf.io/spz4w){.external target="_blank"}
+Casillas, J., Constantin-Dureci, G., Andreu Rascón, I., Shao, J., Rodríguez, S., Gadamsetty, A., Minetti, A., Laungani, K., Thatcher, J., Gardere, R.T., Taveras, K., Chang, I., Rodríguez, N., Parrish, K., **Feliu-Ribas, M.**, and Esposito, R. (in press). Opening open science to all: Demystifying reproducibility and transparency practices in linguistic research. *Linguistics: An Interdisciplinary Journal of the Language Sciences*.
 
 Feliu Ribas, M. (2022). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros en un curso de E/L2 dirigido a un colectivo inmigrante. *Boletín de la Asociación para la Enseñanza del Español como Lengua Extranjera, Núm. 66*, 69-82.
 
@@ -41,16 +43,22 @@ Feliu Ribas, M. (2020). Aprendiendo a escribir cartas de solicitud de empleo con
 
 <br>
 
-#### Presentations and Talks
+#### Conference Presentations
 
-Feliu-Ribas, M. (April 2025). Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals. NYU Sociolinguistics Lab, NY.
-
-Feliu Ribas, M. (November 2024). Bailé or he bailado? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
+Feliu Ribas, M. (November 2024). *Bailé* or *he bailado*? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
 
 Feliu Ribas, M. (April 2024). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish”. *11th International Workshop on Spanish Sociolinguistics*. State University of New York at Buffalo, NY.
 
+<br>
+
+#### Invited Talks, and Workshops
+
+Feliu-Ribas, M. (April 2025) “Experimental Methods in Sociolinguistics: A Practical Introduction”. Sociolinguistic Analysis Group (SlAnG Lab), Rutgers University, NJ. 
+
+Feliu-Ribas, M. (April 2025). Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals. NYU Sociolinguistics Lab, NY.
+
 Feliu Ribas, M. (March 2024). Methodology and methods in (socio)linguistic research on the Internet. On *Research Methods in Spanish Linguistics* (Prof. Kendra V. Dickinson). Rutgers University, NJ.
 
-Dilone, J., Feliu Ribas, M. and Goyeneche, T. (December 2023). A Matter of Empathy and Resources: Navigating the Mindset of Educators in New York City Public Schools. City University of New York, NY.
+Dilone, J., **Feliu Ribas, M.**, and Goyeneche, T. (December 2023). A Matter of Empathy and Resources: Navigating the Mindset of Educators in New York City Public Schools. City University of New York, NY.
 
 Feliu Ribas, M. (May 2020). Aprendizaje Cooperativo en el aula de ELE. Qué es y cómo aplicarlo. Fundació Servei Solidari, Barcelona, Spain.
