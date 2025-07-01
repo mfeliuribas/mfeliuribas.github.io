@@ -25,7 +25,8 @@ editor:
 
 **Initiative on immigration and education, CUNY-IIE** <br> This megaproject investigated the intersections between immigration and education in New York by focusing on mixed-status immigrant communities and education stakeholders, specifically their strengths, experiences, and needs. Through the lens of grounded theory (Corbin & Strauss, 1990), I analyzed a part of the education stakeholders data with Julissa Dilone and Teresita Goyeneche, under the supervision of [Dr. Ariana Mangual Figueroa](https://www.arianamangualfigueroa.com/){.external target="_blank"}. You can find more information about CUNY-IIE in [the official website](https://www.cuny-iie.org/){.external target="_blank"}.
 
-**Alternative approaches to the teaching of Spanish to adult immigrants and refugees** <br> This project tested 'non-traditional approaches' (task-based approach, cooperative learning, and writing as a social task) to the teaching of upper-beginning Spanish in an immigrant setting in Barcelona, Spain, as there was a lack of research on this population, even though Spain is considered one of the main destinations for international migration (Consejo Económico y Social, 2019). You can read about this project [here](https://diposit.ub.edu/dspace/handle/2445/172322){.external target="_blank"} and in [Boletín ASELE, núm. 66](https://static1.squarespace.com/static/5f45150b2aa4295ff896cf08/t/653814b0aa65001249a664c6/1698174132786/Boletin_ASELE_66.pdf){.external target="_blank"}.
+**Alternative approaches to the teaching of Spanish to adult immigrants and refugees** <br> This project tested 'non-traditional' approaches (task-based learning, cooperative learning, and writing as a social task) for teaching upper-beginning Spanish in an immigrant setting in Barcelona, Spain. This study addressed a significant research gap in the literature regarding this population, despite being Spain one of the main destinations for international migration (Consejo Económico y Social, 2019). You can read about this project [here](https://diposit.ub.edu/dspace/handle/2445/172322){.external target="_blank"} and in [Boletín ASELE, núm. 66](https://static1.squarespace.com/static/5f45150b2aa4295ff896cf08/t/653814b0aa65001249a664c6/1698174132786/Boletin_ASELE_66.pdf){.external target="_blank"}.
+
 
 ### Publications and Presentations
 
@@ -35,7 +36,7 @@ Feliu-Ribas, M. (in preparation). Variation in Perfective Past Time Reference: I
 
 Feliu-Ribas, M. (under review). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish.
 
-Casillas, J., Constantin-Dureci, G., Andreu Rascón, I., Shao, J., Rodríguez, S., Gadamsetty, A., Minetti, A., Laungani, K., Thatcher, J., Gardere, R.T., Taveras, K., Chang, I., Rodríguez, N., Parrish, K., **Feliu-Ribas, M.**, and Esposito, R. (2025). Opening open science to all: Demystifying reproducibility and transparency practices in linguistic research. *Linguistics*. [https://doi.org/10.1515/ling-2023-0249](https://doi.org/10.1515/ling-2023-0249){.external target="_blank"}
+Casillas, J., Constantin-Dureci, G., Andreu Rascón, I., Shao, J., Rodríguez, S., Gadamsetty, A., Minetti, A., Laungani, K., Thatcher, J., Gardere, R.T., Taveras, K., Chang, I., Rodríguez, N., Parrish, K., Feliu-Ribas, M., and Esposito, R. (2025). Opening open science to all: Demystifying reproducibility and transparency practices in linguistic research. *Linguistics*. [https://doi.org/10.1515/ling-2023-0249](https://doi.org/10.1515/ling-2023-0249){.external target="_blank"}
 
 Feliu Ribas, M. (2022). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros en un curso de E/L2 dirigido a un colectivo inmigrante. *Boletín de la Asociación para la Enseñanza del Español como Lengua Extranjera, Núm. 66*, 69-82.
 
@@ -59,6 +60,6 @@ Feliu-Ribas, M. (April 2025). Time, Tense, and Variation: The Acquisition of the
 
 Feliu Ribas, M. (March 2024). Methodology and methods in (socio)linguistic research on the Internet. On *Research Methods in Spanish Linguistics* (Prof. Kendra V. Dickinson). Rutgers University, NJ.
 
-Dilone, J., **Feliu Ribas, M.**, and Goyeneche, T. (December 2023). A Matter of Empathy and Resources: Navigating the Mindset of Educators in New York City Public Schools. City University of New York, NY.
+Dilone, J., Feliu Ribas, M., and Goyeneche, T. (December 2023). A Matter of Empathy and Resources: Navigating the Mindset of Educators in New York City Public Schools. City University of New York, NY.
 
 Feliu Ribas, M. (May 2020). Aprendizaje Cooperativo en el aula de ELE. Qué es y cómo aplicarlo. Fundació Servei Solidari, Barcelona, Spain.
