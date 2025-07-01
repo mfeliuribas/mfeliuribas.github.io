@@ -1,5 +1,5 @@
 ---
-title: "Outreach"
+title: "Outreach and Service"
 toc: false
 editor: 
   mode: source
@@ -9,52 +9,42 @@ editor:
 
 ### To the Community
 
-**Co-founder and Co-Director of The Spanish in Society Enrichment Program** <br> [Rutgers University (2023-present)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Co-founder and Co-Director of The Spanish in Society Enrichment Program** <br> [Rutgers University (2023-present)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>To read more about the *Spanish in Society Enrichment Program*, please click on the [Language in the Community](./lang_community.qmd) tab.</li>
 
 </ul>
-<br>
 
-**Member of RU Bilingual** <br> [Rutgers University (2022-present)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Member of RU Bilingual** <br> 
+[Rutgers University (2022-present)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
-<li>Providing English → Spanish translation services to local non-profits, social services organizations, and outreach initiatives through the [Language Bank](https://tlc.rutgers.edu/the-language-bank):</li>
+  <li>
+    Provide English → Spanish translation services to local non-profits, social services organizations, and outreach initiatives through the <a href="https://tlc.rutgers.edu/the-language-bank">Language Bank</a>:
+    <ul style="list-style-type: circle;">
+      <li><em>The Arc of New Jersey Project</em>: Translated a sexual education curriculum for individuals with intellectual and developmental disabilities.</li>
+      <li><em>American Friends Service Committee Project</em>: Translated stories from a storytelling project on diverse migration experiences to the U.S.</li>
+    </ul>
+  </li>
 
-<ul style="list-style-type: circle;">
+  <li>Provide English ↔ Spanish interpretation services to support bilingual communication needs.</li>
 
-<li>*The Arc of New Jersey Project*: Translated a sexual education curriculum for individuals with intellectual and developmental disabilities.</li>
+  <li>
+    Deliver research-based talks and presentations to families, children, and non-expert communities in order to promote the benefits of multilingualism:
+    <ul style="list-style-type: circle;">
+      <li>"Exploring Language Attitudes"</li>
+      <li>"What does a (socio)linguist do?"</li>
+      <li>"Dual Immersion Schools and Bilingualism"</li>
+      <li>"Parent Advocacy"</li>
+    </ul>
+  </li>
 
-<li>*American Friends Service Committee Project*: Translated stories from a storytelling project on diverse migration experiences to the U.S.</li>
-
-</ul>
-
-<li>Providing English ↔ Spanish interpretation services to support bilingual communication needs.</li>
-
-<li>Delivering research-based talks and presentations to families, children, and non-expert communities in order to promote the benefits of multilingualism:</li>
-
-<ul style="list-style-type: circle;">
-
-<li>"Exploring Language Attitudes"</li>
-
-<li>"What does a (socio)linguist do?"</li>
-
-<li>"Dual Immersion Schools and Bilingualism"</li>
-
-<li>"Parent Advocacy"</li>
+  <li>Conducted a workshop on teaching languages to newcomers for the Board of Education Department in North Brunswick, NJ.</li>
 
 </ul>
 
-<li>Conducted a workshop on teaching languages to newcomers for the Board of Education Department in North Brunswick, NJ</li>
-
-</ul>
-<br>
-
-**Workshop Facilitator for iRISE** <br> [Rutgers University (2023)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Workshop Facilitator for iRISE** <br> [Rutgers University (2023)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Facilitated an introductory workshop on experimental research through science, exploration, and innovation.</li>
@@ -64,13 +54,11 @@ editor:
 <li>Designed workshop materials, including a PowerPoint presentation, videos, and interactive activities to engage students and foster curiosity.</li>
 
 </ul>
-<br>
 
-**Spanish Instructor** <br> [Servei Solidari, Spain (2019-2020)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Spanish Instructor** <br> [Servei Solidari, Spain (2019-2020)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
-<li>Taught Spanish to immigrants and refugees at A1.1 to A2.2 levels (CEFR), preparing students for the Diploma de Español como Lengua Extranjera (A2 citizenship exam).</li>
+<li>Taught Spanish to immigrants and refugees at A1.1 to A2.2 levels ([Common European Framework of Reference for Languages](https://www.coe.int/en/web/common-european-framework-reference-languages){.external target="_blank"}, CEFR), preparing students for the *Diploma de Español como Lengua Extranjera* (DELE), which fulfills the citizenship exam language requirement.</li>
 
 <li>Developed and adapted course materials based on students' needs, interests, and the foundation's objectives.</li>
 
@@ -83,86 +71,103 @@ editor:
 <li>Presented practical applications based on my research in Cooperative Learning and classroom experiences from my master's thesis and language teaching background.</li>
 
 </ul>
-<br>
 
 
 
 ### To the Profession
 
-**Abstract reviewer for the 55th NYS TESOL Annual Conference (2025)** <br> [NYS TESOL (2025)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
-<br>
-
-**Manuscript reviewer** <br> [Hispanic Studies Review (2025)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
-<br>
-
-**Co-President and Treasurer of the Spanish and Portuguese Graduate Student Association (SpanPort GSA)** <br> [Rutgers University (2024-present)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Abstract reviewer for the 55th NYS TESOL Annual Conference (2025)** <br> [NYS TESOL (2025)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
-<li>Representing the Spanish and Portuguese Graduate Student Association at university meetings, serving as liaison between the graduate students and the university.</li>
+<li>Evaluate proposals for presentations submitted to the annual conference.</li>
 
-<li>Planing and overseeing academic and cultural events, workshops, and seminars to foster community engagement.</li>
-
-<li>Creating opportunities for networking and collaboration among graduate students.</li>
-
-<li>Managing the association's budget and allocating funds to events, projects, and initiatives.</li>
-
-<li>Maintaining accurate records of expenses and financial reports.</li>
-
-<li>Collaborating with fellow officers and committee members to achieve GSA goals.</li>
-
-<li>Promoting events and initiatives within the graduate student community and beyond, using platforms such as GetINVOLVED.</li>
+<li>Assess abstracts for clarity, originality, and relevance to the TESOL field.</li>
 
 </ul>
-<br>
 
-**Volunteer at the American Translation and Interpreting Studies Association Biennial Conference (ATISA2024)** <br> [Rutgers University (2024)]{style="font-size: 15px; color: #adb5bd; "} <br>
+**Manuscript reviewer** <br> [Hispanic Studies Review (2025)]{style="font-size: 15px; color: #adb5bd;"}
+<ul style="list-style-type: disc; margin-left: 0em;">
 
-<br>
+<li>Review scholarly manuscripts in the field of Hispanic linguistics, heritage language education, and sociolinguistics.</li>
 
-**President of METÁFORA: Arte, performance y creación en español** <br> [Rutgers University (2023-2024)]{style="font-size: 15px; color: #adb5bd; "} <br>
+<li>Assess submissions for methodological rigor, theoretical contribution, and alignment with the journal’s scope.</li>
 
+<li>Provided detail, constructive feedback to authors to support the peer-review process and scholarly publication.</li>
+
+</ul>
+
+**Co-President and Treasurer of the Spanish and Portuguese Graduate Student Association** <br> [Rutgers University (2024-present)]{style="font-size: 15px; color: #adb5bd;"}
+<ul style="list-style-type: disc; margin-left: 0em;">
+
+<li>Represent the Spanish and Portuguese Graduate Student Association (SpanPort GSA) at university meetings, serving as liaison between the graduate students and the university.</li>
+
+<li>Plan and oversee academic and cultural events, workshops, and seminars to foster community engagement.</li>
+
+<li>Create opportunities for networking and collaboration among graduate students.</li>
+
+<li>Manage the association's budget and allocating funds to events, projects, and initiatives.</li>
+
+<li>Maintain accurate records of expenses and financial reports.</li>
+
+<li>Collaborate with fellow officers and committee members to achieve GSA goals.</li>
+
+<li>Promote events and initiatives within the graduate student community and beyond, using platforms such as GetINVOLVED.</li>
+
+</ul>
+
+**Volunteer at the American Translation and Interpreting Studies Association Biennial Conference (ATISA 2024)** <br> [Rutgers University (2024)]{style="font-size: 15px; color: #adb5bd;"}
+<ul style="list-style-type: disc; margin-left: 0em;">
+
+<li>Assisted with on-site registration and attendee check-in, to ensure a smooth conference experience.</li>
+
+<li>Supported logistical operations, including room setup, signage, and materials distribution.</li>
+
+<li>Provided basic IT support during the sessions (e.g., screen sharing, troubleshooting).</li>
+
+<li>Collaborated with organizers and fellow volunteers to ensure events ran efficiently and professionally.</li>
+
+</ul>
+
+**President of METÁFORA: Arte, performance y creación en español** <br> [Rutgers University (2023-2024)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Organized and planned 8 creative workshops and interdisciplinary events celebrating Hispanic, Portuguese, and Luso-Brazilian arts and cultures, to which 80+ people attended.</li>
 
-<li>Collaborated with faculty, guest speakers, fellow students, and other organizations ([RU Bilingual](https://rubilingual.weebly.com/) and [Literary Studies in Spanish Organization](https://rutgers.campuslabs.com/engage/organization/lsso) to provide hands-on workshops and meaningful cultural experiences.</li>
+<li>Collaborated with faculty, guest speakers, fellow students, and other organizations ([RU Bilingual](https://rubilingual.weebly.com/){.external target="_blank"} and [Literary Studies in Spanish Organization](https://rutgers.campuslabs.com/engage/organization/lsso){.external target="_blank"} to provide hands-on workshops and meaningful cultural experiences.</li>
 
-<li>Managed the SpanPort Department Grant for Developing Cultural Projects (2022-2024), overseeing a budget of \$500 to support materials and food expenses for workshops and events.</li>
+<li>Managed the SpanPort Department Grant for Developing Cultural Projects (2023-2024), overseeing a budget of \$500 to support materials and food expenses for workshops and events.</li>
 
 <li>Coordinated logistics for all events, including room bookings, material preparation, food arrangements, and outreach to ensure smooth execution and engaging experiences.</li>
 
 <li>Designed promotional materials and promoted events through marketing efforts in order to enhance visibility and grew event awareness within the Rutgers community.</li>
 
 </ul>
-<br>
 
-**Secretary of METÁFORA: Arte, performance y creación en español** <br> [Rutgers University (2022-2023)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Secretary of METÁFORA: Arte, performance y creación en español** <br> [Rutgers University (2022-2023)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Planned and executed 3 workshops as part of the Spanish Department's cultural initiatives.</li>
 
-<li>Conceived a creative writing contest to celebrate the World Book Day and [Sant Jordi](https://en.wikipedia.org/wiki/The_Day_of_Books_and_Roses), and served as a judge for the contest.</li>
+<li>Conceived a creative writing contest to celebrate the World Book Day and [Sant Jordi](https://en.wikipedia.org/wiki/The_Day_of_Books_and_Roses){.external target="_blank"}, and served as a judge for the contest.</li>
 
 <li>Supported the president (Francisco Cantero Soriano) in event planning and logistics, contributing to the smooth execution of the workshops</li>
 
 </ul>
-<br>
 
-**Curriculum Developer and Content Creador** <br> [Fundació Servei Solidari, Spain (2019-2020)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Curriculum Developer and Content Creador** <br> [Fundació Servei Solidari, Spain (2019-2020)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Created and designed the contents and activities for a unit of the *Tasta'm* student book and workbook (L2/L3 Spanish).</li>
 
+<li>Developed communicative, task-based materials aligned with CEFR guidelines ([Common European Framework of Reference for Languages](https://www.coe.int/en/web/common-european-framework-reference-languages){.external target="_blank"}), targeting young adult immigrant learners.</li>
+
+<li>Ensured accessibility and cultural relevance by incorporating real-world themes.</li>
+
+<li>Collaborated with other instructional designers and language teachers to align materials with classroom needs and program goals.</li>
+
 </ul>
-<br>
 
-**Representative at Saló de l'Ensenyament** <br> [Universitat de Barcelona, Spain (2018)]{style="font-size: 15px; color: #adb5bd; "} <br>
-
+**Representative at Saló de l'Ensenyament** <br> [Universitat de Barcelona, Spain (2018)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Represented the Languages and Literatures Departments from the University of Barcelona at Barcelona’s largest university student fair.</li>

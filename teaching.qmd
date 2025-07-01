@@ -5,22 +5,21 @@ editor:
   mode: source
 ---
 
-I am passionate about language education - Here is a list of courses I have taught or I am currently teaching. As shown, I have extensive experience in language instruction across various educational settings, populations, and proficiency levels. 
+Being raised as a bilingual in a small town in Catalonia, Spain, I am passionate about language education (and bilingualism!). Here is a list of courses I have taught or I am currently teaching. I have extensive experience in language instruction across various educational settings, populations, and proficiency levels. 
 
-#### University Level
+#### University Level: Undergraduate Courses
 -   Spanish 131: Intermediate Spanish I (in person)
 -   Spanish 132: Intermediate Spanish II (in person and online)
 -   Spanish 203: Spanish Conversation and Composition (in person)
 -   Spanish 261: Introduction to the Study of Language (hybrid)
 -   Catalan B1:  Certificate Preparation (Sprachzertifikat Katalanisch B1) (in person)
 
-#### Children and Young Adults
-
+#### Children, Young Adults, and Professional Adults
 -   Catalan for Newcomers (Pre-K to 6th Grade)
--   Spanish for Newcomers (Pre-K to 6th Grade)
--   Spanish for Heritage Speakers (1st Grade)
 -   Catalan for Native Speakers (3rd Grade)
 -   Creative Writing in Catalan and Spanish (5th Grade)
+-   Spanish for Newcomers (Pre-K to 6th Grade)
+-   Spanish for Heritage Speakers (1st Grade)
 -   Intermediate Spanish (in-house corporate)
 -   Beginning German (children, teens, adults)
 -   Elementary German (teens)
