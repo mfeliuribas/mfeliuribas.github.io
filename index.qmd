@@ -51,7 +51,7 @@ I am a first-generation Ph.D. Candidate in Bilingualism and Second Language Acqu
 
 <ul class="fa-ul">
 
-<li><i class="fa-solid fa-graduation-cap"></i> Ph.D. in Bilingualism and Second Language Acquisition, 2026 (expected) <br> <font size = "3px">Rutgers University</font></li>
+<li><i class="fa-solid fa-graduation-cap"></i> Ph.D. in Bilingualism and Second Language Acquisition, 2027 (expected) <br> <font size = "3px">Rutgers University</font></li>
 
 <li><i class="fa-solid fa-graduation-cap"></i> MA in Teaching Spanish as a Foreign and Second Language, 2020 <br> <font size = "3px">Universitat de Barcelona & Universitat Pompeu Fabra (Spain)</font></li>
 

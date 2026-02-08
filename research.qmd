@@ -11,7 +11,7 @@ editor:
 
 #### Active Projects
 
-**Morphosyntactic variation in early Spanish-English bilinguals** <br> This project explores the variation of forms in the expression of perfective past time reference, futurity, and epistemic modality among early Spanish-English bilinguals in the United States. In addition, it compares the results from bilinguals to those of Spanish monolinguals in order to examine the potential role of bilingualism and language contact situations. Data are currently being collected using different sociolinguistic corpora and a variety of experimental tasks that target both production and receptive knowledge, and will be analyzed following Bayesian regression methods. The findings from this project will inform theories of grammaticalization, language change and variation, language contact, bilingualism, and heritage language acquisition, as well as educational programs.
+**Morphosyntactic variation in early Spanish-English bilinguals** <br> This project explores the variation of forms in the expression of perfective past time reference, futurity, and epistemic modality among early Spanish-English bilinguals in the United States. In addition, it compares the results from bilinguals to those of Spanish monolinguals in order to examine the potential role of bilingualism and language contact situations. Data are currently being collected using different sociolinguistic corpora and a variety of experimental tasks that target both production and receptive knowledge, and will be analyzed following Bayesian regression methods. The findings from this project will inform theories of grammaticalization, language change and variation, language contact, bilingualism, and heritage language acquisition, as well as educational programs and language policy.
 
 **Language attitudes of Catalan-Spanish bilinguals** <br> This project examines the covert attitudes by Catalan-Spanish bilinguals toward a less Catalan-like production of a given sound, focusing on intervocalic alveolar fricatives, lateral approximants, and velar fricatives. Data were collected using a experimental task that followed a between-subjects design, and is being analyzed through hierarchically nested linear regression models. The results from this study will inform discussions on language policies, social integration, and linguistic diversity in bilingual populations.
 
@@ -30,36 +30,51 @@ editor:
 
 ### Publications and Presentations
 
-#### Publications
+#### Publications and Works In Progress
 
-Feliu-Ribas, M. (in preparation). Variation in Perfective Past Time Reference: Insights from Spanish in Contact with English.
+Casillas, J., Constantin-Dureci, G., Andreu Rascón, I., Shao, J., Rodríguez, S., Gadamsetty, A., Minetti, A., Laungani, K., Thatcher, J., Gardere, R.T., Taveras, K., Chang, I., Rodríguez, N., Parrish, K., **Feliu-Ribas, M.**, and Esposito, R. (2025). Opening open science to all: Demystifying reproducibility and transparency practices in linguistic research. *Linguistics*. [https://doi.org/10.1515/ling-2023-0249](https://doi.org/10.1515/ling-2023-0249){.external target="_blank"}
 
-Feliu-Ribas, M. (under review). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish.
+**Feliu Ribas, M.** (2022). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros en un curso de E/L2 dirigido a un colectivo inmigrante. *Boletín de la Asociación para la Enseñanza del Español como Lengua Extranjera, Núm. 66*, 69-82.
 
-Casillas, J., Constantin-Dureci, G., Andreu Rascón, I., Shao, J., Rodríguez, S., Gadamsetty, A., Minetti, A., Laungani, K., Thatcher, J., Gardere, R.T., Taveras, K., Chang, I., Rodríguez, N., Parrish, K., Feliu-Ribas, M., and Esposito, R. (2025). Opening open science to all: Demystifying reproducibility and transparency practices in linguistic research. *Linguistics*. [https://doi.org/10.1515/ling-2023-0249](https://doi.org/10.1515/ling-2023-0249){.external target="_blank"}
+**Feliu Ribas, M.** (2020). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros: la expresión escrita en un curso de E/L2 dirigido a un colectivo inmigrante. \[Master’s thesis, Universitat de Barcelona.\] Dipòsit Digital de la Universitat de Barcelona. [http://hdl.handle.net/2445/172322](http://hdl.handle.net/2445/172322){.external target="_blank"}
 
-Feliu Ribas, M. (2022). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros en un curso de E/L2 dirigido a un colectivo inmigrante. *Boletín de la Asociación para la Enseñanza del Español como Lengua Extranjera, Núm. 66*, 69-82.
+**Feliu-Ribas, M.** (accepted with minor revisions). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish. Refereed Proceedings of the *11th International Workshop on Spanish Sociolinguistics*. Babel Publishing.
 
-Feliu Ribas, M. (2020). Aprendiendo a escribir cartas de solicitud de empleo con los compañeros: la expresión escrita en un curso de E/L2 dirigido a un colectivo inmigrante. \[Master’s thesis, Universitat de Barcelona.\] Dipòsit Digital de la Universitat de Barcelona. [http://hdl.handle.net/2445/172322](http://hdl.handle.net/2445/172322){.external target="_blank"}
+Casillas, J., Esposito, R., Shao, J., **Feliu-Ribas, M.**, Corregidor Luna, E.M., Rodríguez, S., Rascón Andreu, I., & Vargas Mutizabal, J.L. (in preparation). Code and Data Sharing Increases Citation Rates in Linguistics but Remains Uncommon.
 
-<br>
+**Feliu-Ribas, M.** (in preparation). Variation in Perfective Past Time Reference: Insights from Spanish in Contact with English.
 
-#### Conference Presentations
-
-Feliu Ribas, M. (November 2024). *Bailé* or *he bailado*? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
-
-Feliu Ribas, M. (April 2024). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish”. *11th International Workshop on Spanish Sociolinguistics*. State University of New York at Buffalo, NY.
+**Feliu-Ribas, M.** (in preparation). Futurity and Probability in Contact Spanish: What Can Early Spanish-English Bilinguals Tell Us.
 
 <br>
 
-#### Invited Talks, and Workshops
+#### Conference Presentations and Posters
 
-Feliu-Ribas, M. (April 2025) “Experimental Methods in Sociolinguistics: A Practical Introduction”. Sociolinguistic Analysis Group (SlAnG Lab), Rutgers University, NJ. 
+**Feliu-Ribas, M.** (November 2025). “Navigating Future-Time and Epistemic Modality Variation in Spanish Heritage Speakers” [Presentation]. *Hispanic Linguistics Symposium (HLS) 2025*. The University of Arizona, Arizona. 
 
-Feliu-Ribas, M. (April 2025). Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals. NYU Sociolinguistics Lab, NY.
+Casillas, J., Corregidor, E., Esposito, R., Shao, J., Andreu Rascón, I., Gardere, R.T., Laungani, K., **Feliu-Ribas, M.**, & Rodriguez, S. (November 2025). “(Un)available upon request: Data and code sharing practices in (Hispanic) linguistics” [Presentation]. *Hispanic Linguistics Symposium 2025*. The University of Arizona, Arizona. 
 
-Feliu Ribas, M. (March 2024). Methodology and methods in (socio)linguistic research on the Internet. On *Research Methods in Spanish Linguistics* (Prof. Kendra V. Dickinson). Rutgers University, NJ.
+**Feliu-Ribas, M.** (November 2025) “Futurity and Probability in Contact Spanish: Insights from Heritage Speakers” [Poster]. *New Ways of Analyzing Variation (NWAV) 53*. University of Michigan, Michigan.
 
-Dilone, J., Feliu Ribas, M., and Goyeneche, T. (December 2023). A Matter of Empathy and Resources: Navigating the Mindset of Educators in New York City Public Schools. City University of New York, NY.
+**Feliu Ribas, M.** (November 2024). "*Bailé* or *he bailado*? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals" [Presentation]. *New Ways of Analyzing Variation (NWAV) 52*. Florida International University and University of Miami, Florida.
 
-Feliu Ribas, M. (May 2020). Aprendizaje Cooperativo en el aula de ELE. Qué es y cómo aplicarlo. Fundació Servei Solidari, Barcelona, Spain.
+**Feliu Ribas, M.** (April 2024). "“Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish" [Presentation]. *11th International Workshop on Spanish Sociolinguistics*. State University of New York at Buffalo, New York.
+
+
+### Invited Talks and Workshops
+
+#### Invited Talks and Workshops
+
+**Feliu-Ribas, M.** (November 2025). “A Story of Power, Loss, and Identity: The Case of Catalan”. On *Bilingualism in the Spanish-Speaking World* (Instructor: Eva Maria Corregidor Luna). Rutgers University, New Jersey.
+
+**Feliu-Ribas, M.** (October 2025). “Living Language: A Sociolinguistic Program for Young Heritage Speakers”. *Research Colloquium*, Department of Spanish and Portuguese, Rutgers University, New Jersey. 
+
+**Feliu-Ribas, M.** (April 2025) “Experimental Methods in Sociolinguistics: A Practical Introduction”. *Sociolinguistic Analysis Group (SlAnG Lab)*, Rutgers University, New Jersey. 
+
+**Feliu-Ribas, M.** (April 2025). "Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals". *NYU Sociolinguistics Lab*, New York.
+
+**Feliu Ribas, M.** (March 2024). Methodology and methods in (socio)linguistic research on the Internet. On *Research Methods in Spanish Linguistics* (Prof. Kendra V. Dickinson). Rutgers University, New Jersey.
+
+Dilone, J., **Feliu Ribas, M.**, and Goyeneche, T. (December 2023). A Matter of Empathy and Resources: Navigating the Mindset of Educators in New York City Public Schools. On *Intersections between Immigration and Education* (Prof. Ariana Mangual Figueroa), City University of New York, New York.
+
+**Feliu Ribas, M.** (May 2020). Aprendizaje Cooperativo en el aula de ELE. Qué es y cómo aplicarlo. Fundació Servei Solidari, Barcelona, Spain.

@@ -9,8 +9,12 @@ editor:
 
 ### To the Community
 
-**Co-founder and Co-Director of The Spanish in Society Enrichment Program** <br> [Rutgers University (2023-present)]{style="font-size: 15px; color: #adb5bd;"}
+**Co-founder and Co-Director of The Spanish in Society Enrichment Program (SiSEP)** <br> [Division of Diversity, Inclusion, and Community Engagement at Rutgers University (2024-present)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
+
+<li>The SiSEP is an after-school program that teaches elementary and middle school Hispanic students from the Greater Brunswick Charter School core sociolinguistic principles through hands-on, linguistics-based research projects.</li>
+
+<li>The SiSEP is fully funded and supported by the Division of Diversity, Inclusion, and Community Engagement through the IDEA Innovation Grant ($2,400).</li>
 
 <li>To read more about the *Spanish in Society Enrichment Program*, please click on the [Language in the Community](./lang_community.qmd) tab.</li>
 
@@ -55,7 +59,7 @@ editor:
 
 </ul>
 
-**Spanish Instructor** <br> [Servei Solidari, Spain (2019-2020)]{style="font-size: 15px; color: #adb5bd;"}
+**Spanish Language Instructor and Workshop Facilitator** <br> [Servei Solidari, Spain (2019-2020)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Taught Spanish to immigrants and refugees at A1.1 to A2.2 levels ([Common European Framework of Reference for Languages](https://www.coe.int/en/web/common-european-framework-reference-languages){.external target="_blank"}, CEFR), preparing students for the *Diploma de Español como Lengua Extranjera* (DELE), which fulfills the citizenship exam language requirement.</li>
@@ -76,16 +80,7 @@ editor:
 
 ### To the Profession
 
-**Abstract reviewer for the 55th NYS TESOL Annual Conference (2025)** <br> [NYS TESOL (2025)]{style="font-size: 15px; color: #adb5bd;"}
-<ul style="list-style-type: disc; margin-left: 0em;">
-
-<li>Evaluate proposals for presentations submitted to the annual conference.</li>
-
-<li>Assess abstracts for clarity, originality, and relevance to the TESOL field.</li>
-
-</ul>
-
-**Manuscript reviewer** <br> [Hispanic Studies Review (2025)]{style="font-size: 15px; color: #adb5bd;"}
+**Manuscript reviewer** <br> [Hispanic Studies Review (2025-present)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Review scholarly manuscripts in the field of Hispanic linguistics, heritage language education, and sociolinguistics.</li>
@@ -96,7 +91,27 @@ editor:
 
 </ul>
 
-**Co-President and Treasurer of the Spanish and Portuguese Graduate Student Association** <br> [Rutgers University (2024-present)]{style="font-size: 15px; color: #adb5bd;"}
+**Graduate Student Representative** <br> [Department of Spanish and Portuguese, Rutgers University (2025-present)]{style="font-size: 15px; color: #adb5bd;"}
+<ul style="list-style-type: disc; margin-left: 0em;">
+
+<li>Attend monthly faculty meetings to represent graduate student interests and ensure transparency in departmental governance.</li>
+
+<li>Serve as a liaison between faculty and graduate students, providing detailed reports on departmental decisions, curriculum updates, and administrative initiatives.</li>
+
+<li>Facilitate timely communication of faculty meeting outcomes to ensure the graduate community is informed and engaged.</li>
+
+</ul>
+
+**Abstract reviewer for the 55th NYS TESOL Annual Conference (2025)** <br> [NYS TESOL (2025)]{style="font-size: 15px; color: #adb5bd;"}
+<ul style="list-style-type: disc; margin-left: 0em;">
+
+<li>Evaluate proposals for presentations submitted to the annual conference.</li>
+
+<li>Assess abstracts for clarity, originality, and relevance to the TESOL field.</li>
+
+</ul>
+
+**Co-President and Treasurer of the Spanish and Portuguese Graduate Student Association** <br> [Rutgers University (2024-2025)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Represent the Spanish and Portuguese Graduate Student Association (SpanPort GSA) at university meetings, serving as liaison between the graduate students and the university.</li>
@@ -128,12 +143,14 @@ editor:
 
 </ul>
 
-**President of METÁFORA: Arte, performance y creación en español** <br> [Rutgers University (2023-2024)]{style="font-size: 15px; color: #adb5bd;"}
+**Director and Project Manager of METÁFORA: Arte, performance y creación en español** <br> [Rutgers University (2023-2024)]{style="font-size: 15px; color: #adb5bd;"}
 <ul style="list-style-type: disc; margin-left: 0em;">
 
 <li>Organized and planned 8 creative workshops and interdisciplinary events celebrating Hispanic, Portuguese, and Luso-Brazilian arts and cultures, to which 80+ people attended.</li>
 
 <li>Collaborated with faculty, guest speakers, fellow students, and other organizations ([RU Bilingual](https://rubilingual.weebly.com/){.external target="_blank"} and [Literary Studies in Spanish Organization](https://rutgers.campuslabs.com/engage/organization/lsso){.external target="_blank"} to provide hands-on workshops and meaningful cultural experiences.</li>
+
+<li>Secured $500 to support the organization of the events.</li>
 
 <li>Managed the SpanPort Department Grant for Developing Cultural Projects (2023-2024), overseeing a budget of \$500 to support materials and food expenses for workshops and events.</li>
 
